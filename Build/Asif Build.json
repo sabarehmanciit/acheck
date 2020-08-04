@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "HummingBird",
+"productVersion": "0.1",
+"dataUrl": "Asif Build.data.unityweb",
+"wasmCodeUrl": "Asif Build.wasm.code.unityweb",
+"wasmFrameworkUrl": "Asif Build.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.9f1"
+}
